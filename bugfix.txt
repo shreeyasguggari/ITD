@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is in the master brach
 
+=======
+This is to check the merge concept
+>>>>>>> bugfix
